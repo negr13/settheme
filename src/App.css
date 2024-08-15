@@ -1,0 +1,28 @@
+header{
+    box-shadow: 5px 5px rgb(36, 73, 237);
+    align-content: left;
+}
+button:active{
+  color: rgb(255, 255, 255);
+  background-color: rgb(84, 17, 241);
+}
+.comments{
+    background-color: rgb(106, 68, 241);
+    color: aliceblue;
+    text-decoration:underline;
+}
+footer{
+    background-color: rgb(82, 30, 238);
+    width: 1536px;
+    height: 200px;
+    color: aliceblue;
+}
+body.light {
+    background-color: white;
+    color: black;
+}
+
+body.dark {
+    background-color: black;
+    color: white;
+}
